@@ -20,9 +20,7 @@ I created this project with the help of **Eng. Osama Elzero** through his course
 
 ## Live Demo
 
-You can view the live project [here](#)  
-*Replace `#` with your live project link or GitHub Pages link.*
-
+You can view the live project [here](https://ayaat2.github.io/Kasper-Template-Two/)  
 
 ## Author
 
